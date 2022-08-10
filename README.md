@@ -1,3 +1,5 @@
+Studying information technology and systems development since 2013, as my main specialty is Web Development.
+
 - 👋 Hi, I’m @brthema072
 - 👀 I’m interested in develop systems that help the work
 - 🌱 I’m currently learning Angular, ReactJs, Flutter and C#
