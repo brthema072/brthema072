@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.w3schools.com/js/img_javascript_480.jpg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/TypeScript#/media/File:Typescript.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/960px-Typescript.svg.png" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://angular.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="react" width="40" height="40"/>
