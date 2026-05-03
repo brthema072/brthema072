@@ -11,9 +11,8 @@ brthema072/brthema072 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <h3 align="left">Languages, Frameworks and Tools:</h3>
-<p align="left">
+<div align="left" style="display: flex; flex-direction: row;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://www.w3schools.com/js/img_javascript_480.jpg" alt="javascript" width="40" height="40"/>
   </a>
@@ -50,4 +49,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</p>
+</div>
