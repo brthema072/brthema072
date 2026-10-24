@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 <div align="left" style="display: flex; flex-direction: row;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://www.w3schools.com/js/img_javascript_480.jpg" alt="javascript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/960px-Typescript.svg.png" alt="typescript" width="40" height="40"/>
